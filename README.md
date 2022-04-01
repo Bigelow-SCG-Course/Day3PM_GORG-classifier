@@ -12,7 +12,7 @@ In terminal, navigate over to your user lab directory and clone the lesson repos
 
 ```
 $ cd ~/storage/user_lab/{your_username_here}/
-$ git clone git@github.com:Bigelow-SCG-Course/Day3PM_GORG-classifier.git
+$ git clone https://github.com/Bigelow-SCG-Course/Day3PM_GORG-classifier.git
 ```
 
 You should now have a directory called '3PM_GORG-classifier' within your user directory.
